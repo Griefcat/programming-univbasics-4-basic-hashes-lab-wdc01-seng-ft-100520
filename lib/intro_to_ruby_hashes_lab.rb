@@ -3,9 +3,9 @@ def new_hash
 end
 
 def my_hash
- new_hash ={
-   :created => Time.now ,
-   :message => "Hello World!"
+ important_days ={
+   :marriage => "February 22, 2020"
+   :Juans_bday => "Hello World!"
  }
  end 
 
