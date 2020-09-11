@@ -4,8 +4,8 @@ end
 
 def my_hash
  new_hash = {
-   :created => "August Fourteenth"
-   :message => "February Twenty Second"
+   :created => Time.now
+   :message => "Hello World!"
  }
 end
 
