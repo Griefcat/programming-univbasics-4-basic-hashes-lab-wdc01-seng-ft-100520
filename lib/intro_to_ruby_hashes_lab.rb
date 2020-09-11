@@ -4,8 +4,8 @@ end
 
 def my_hash
  important_days ={
-   :marriage => "February 22, 2020"
-   :juans_bday => "August 14, 1987"
+   :marriage => "February 22 2020"
+   :juans_bday => "August 14 1987"
  end 
 
 def pioneer
