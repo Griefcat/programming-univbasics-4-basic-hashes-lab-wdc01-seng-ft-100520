@@ -5,7 +5,7 @@ end
 def my_hash
  new_hash = {
    :created => "August Fourteenth"
-   :message => "February Twenty-Second"
+   :message => "February Twenty Second"
  }
 end
 
