@@ -3,7 +3,10 @@ def new_hash
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  important_days = {
+    :anniversary => 2.22.2020
+    :Juans_birthday => 8.14.1987
+  }
 end
 
 def pioneer
