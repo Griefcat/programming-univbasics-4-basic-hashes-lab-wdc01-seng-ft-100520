@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  important_days = {
+  important = {
     :anniversary => "February 22"
     :Juans_birthday => "August 14"
   }
