@@ -3,11 +3,10 @@ def new_hash
 end
 
 def my_hash
-  important = {
-    :anniversary => "February 22"
-    :Juans_birthday => "August 14"
-  }
-end
+ new_hash ={
+   :created => Time.now 
+   :message => "Hello World!"
+ }
 
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
